@@ -3,7 +3,7 @@
 
     char* SSIDWIFI = "";
     char* PASSWORDWIFI = "";
-    int FINDNEWFOLLOWERS = 20000000; // Son 20 segundos 
-    int SLEEPCOUNTER = 2;
+    int FINDNEWFOLLOWERS = 60000000; // Son 60 segundos 
+    int SLEEPCOUNTER = 5;
 
 #endif
