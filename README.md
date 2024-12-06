@@ -11,7 +11,11 @@
 
 Accede a la cuenta vinculada haciendo clic [aquí](https://www.facebook.com/profile.php?id=61568782621254&locale=es_ES)
 
-# Descripción
+# 🛠️ Requisitos
+
+Los requisitos del proyecto se encuentran [aquí](Requisitos.pdf).
+
+# 📖 Descripción
 
 Followers Facebook es proyecto desarrollado con Arduino ESP32S3. A través de la integración con la API de Facebook, este sistema permite:
 
