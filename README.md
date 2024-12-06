@@ -1,5 +1,5 @@
 # FOLLOWERS FACEBOOK
- **Proyecto interactivo con Arduino ESP32S3**
+ **Proyecto con Arduino ESP32S3**
 # Integrantes
   - 🧑‍💻 Carlos Bauluz Rodríguez
   - 🧑‍💻 Álvaro Pereda Sánchez
