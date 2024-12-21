@@ -5,7 +5,7 @@
   - 🧑‍💻 Álvaro Pereda Sánchez
 
 # Calificación: 
-   📊 Puntuación: **/10**
+   📊 Puntuación: **9.8/10**
 
 # 🌐 Enlace a la cuenta de Facebook
 
